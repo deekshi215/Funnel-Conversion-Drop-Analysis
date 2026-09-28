@@ -14,7 +14,7 @@ Through this dashboard, businesses can track user progression from browsing to p
 - Power Query (Data Transformation)
 - Data Modeling 
 - Python (Data Cleaning & Preprocessing)
-- Pandas, NumPy, Matplotlib
+- Pandas
 - GitHub
 
 ## Steps Followed
